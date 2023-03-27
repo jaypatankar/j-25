@@ -8,9 +8,9 @@
 ![](https://komarev.com/ghpvc/?username=jaypatankar)
 
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaypatankar&count_private=true&show_icons=true&theme=github_dark" alt="jaypatankar's Github Stats">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=jaypatankar&count_private=true&show_icons=true&theme=github_dark" alt="jaypatankar's Github Stats"> -->
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaypatankar&theme=github-dark-blue" alt="Streak Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatankar&layout=compact&theme=github_dark" alt="Top Languages">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatankar&layout=compact&theme=github_dark" alt="Top Languages"> -->
 </p>
